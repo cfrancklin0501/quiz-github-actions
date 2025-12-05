@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprimir nombre completo
-        run: echo "Hola, mi nombre es [TU NOMBRE COMPLETO]"
+        run: echo "Hola, mi nombre es Francklin Chavez"
       - name: Imprimir fecha y hora actual
         run: date
       - name: Imprimir sistema operativo
